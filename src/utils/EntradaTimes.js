@@ -15,7 +15,7 @@ const times = [
         corSecundaria: '#F0F8E2',
         corPrimaria: '#A6D157'
     },
-    {ll
+    {
         nome: 'DevOps',
         corSecundaria: '#FDE7E8',
         corPrimaria: '#E06B69'
